@@ -1,0 +1,19 @@
+{
+  "name": "lprac",
+  "version": "1.0.0",
+  "main": "nd.js",
+  "scripts": {
+    "start": "node nd",
+    "dev": "nodemon nd"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
